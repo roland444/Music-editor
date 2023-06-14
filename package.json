@@ -1,0 +1,19 @@
+{
+  "name": "music-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roland444/Music-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roland444/Music-editor/issues"
+  },
+  "homepage": "https://github.com/roland444/Music-editor#readme"
+}
