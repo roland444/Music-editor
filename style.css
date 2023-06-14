@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(18, 81, 45);
+}
+
+.container {
+    height: 300px;
+    min-width: 500px;
+    margin: 100px auto 0 auto;
+    text-align: center;
+    color: silver;
+}
+
+.select, .select input {
+    margin: 25px;
+}
