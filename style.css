@@ -10,12 +10,31 @@ body {
 
 .container {
     height: 300px;
-    min-width: 500px;
+    width: 500px;
     margin: 100px auto 0 auto;
     text-align: center;
     color: silver;
 }
 
-.select, .select input {
+.select {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     margin: 25px;
+}
+
+#play-btn {
+    margin: 25px;
+    border: none;
+    box-shadow: 5px 5px 5px darkgreen;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: greenyellow;
+}
+
+.audio-input {
+    margin: 10px;
+    
 }
