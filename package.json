@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roland444/Music-editor/issues"
   },
-  "homepage": "https://github.com/roland444/Music-editor#readme"
+  "homepage": "https://github.com/roland444/Music-editor#readme",
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
 }
